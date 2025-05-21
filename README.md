@@ -1,6 +1,10 @@
 # 🌱 Grow a Garden Script for Roblox
 
 Welcome to the **Grow a Garden Script** – a powerful and customizable script for the **Grow a Garden** Roblox game. This script includes a variety of automation and utility features to enhance your gardening experience in the game.
+# ⭐ Script (Copy & Paste)
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/riican/GrowAGarden/refs/heads/main/Main.Lua"))()
+```
 
 ## 🔧 Features
 
